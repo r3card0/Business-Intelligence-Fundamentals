@@ -1,9 +1,15 @@
 # Business Intelligence Fundamentals
 
 ## Fundamentals
+- Definition
 - Stakeholders
-- Tipos de empresas
+- Business Types: Products & Services
 - Income Statement
 - Income, profit and costs
 - Margen de contribución
 - Razones matemáticas
+
+## Workflow
+- ETL
+- Analysis
+- Reporting
